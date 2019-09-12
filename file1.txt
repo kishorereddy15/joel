@@ -1,4 +1,5 @@
 this is my line1
 this line from gitbash
 this line from remote
+for git stash
 
