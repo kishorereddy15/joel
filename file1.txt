@@ -3,5 +3,6 @@ this line from gitbash
 this line from remote
 for git stash
 git checkout cerrypick
+new
 
 
